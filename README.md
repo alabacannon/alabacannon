@@ -1,16 +1,9 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alabacannon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/alabacannon"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/alabacannon"/>
-  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alabacannon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/alabacannon"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### Language
